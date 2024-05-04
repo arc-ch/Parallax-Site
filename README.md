@@ -9,10 +9,10 @@ It features a landing page with parallax background and foreground images, along
 - **Styling and Layout**: The CSS styles define the layout and appearance of the webpage, including font styles, background colors, and utilizes Flexbox for efficient positioning and alignment of elements. The design is visually appealing and creates a cohesive look for the entire webpage.
   
 ## Usage
-To view the website, simply open `parallaxsite.html` in a web browser.
+To view the website, simply open `index.html` in a web browser.
 
 ## File Structure
-- `parallaxsite.html`: Main HTML file
+- `index.html`: Main HTML file
 - `Images/`: Folder containing images used in the project
 
 ## Technologies Used
